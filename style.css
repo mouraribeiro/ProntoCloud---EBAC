@@ -100,6 +100,9 @@ nav a{
     text-decoration: none;
     color: #254159;
 }
+nav a:hover{
+    color: #385874
+}
 
 section article{
     display: block;
